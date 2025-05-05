@@ -6,7 +6,7 @@
             "type": "income",
             "category": "Venda",
             "price": 14000,
-            "createdAt": "2022-07-29T19:3644.505Z"
+            "createdAt": "2022-07-29T19:36:44.505Z"
         },
         {
             "id":2,
@@ -14,7 +14,15 @@
             "type": "outcome",
             "category": "Alimentação",
             "price": 50,
-            "createdAt": "2022-07-29T19:3644.505Z"
+            "createdAt": "2022-07-29T19:36:44.505Z"
+        },
+        {
+            "id":3,
+            "description": "Ignite",
+            "type": "outcome",
+            "category": "Estudos",
+            "price": 2000,
+            "createdAt": "2022-07-29T19:36:44.505Z"
         }
     ]
 
